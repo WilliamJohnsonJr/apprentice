@@ -20,7 +20,7 @@
       });
     }
     $.ajax({
-      url: "http://localhost:3000/markers",
+      url: "https://apprenticesc-wjohnson.herokuapp.com/markers",
       dataType: 'json'
     }).then(function(locations){
       makeMarkers(locations);
