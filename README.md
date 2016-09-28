@@ -11,4 +11,4 @@ This app was built during an interactive code challenge as an application for an
 The application process also involved translating binary into text, which I did via the Ruby program that I wrote here: [Binary-To-Text App Repo] (https://github.com/WilliamJohnsonJr/binarytotext)
 
 ## Tools Used:
-Ruby on Rails, Ruby, Semantic HTML, SCSS/CSS, JavaScript, jQuery, AJAX, Responsive Design
+Ruby on Rails, Ruby, Google Maps JavaScript API, Semantic HTML, SCSS/CSS, JavaScript, jQuery, AJAX, Responsive Design
