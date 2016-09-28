@@ -1,4 +1,4 @@
-![Apprentice Logo] (apprenticelogo.png)
+![Apprentice Logo] (ApprenticeLogo.png)
 # Apprentice
 
 ## An app built by someone who thinks Standard Code is cool.
