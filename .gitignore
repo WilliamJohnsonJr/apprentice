@@ -32,3 +32,4 @@ bower.json
 # Ignore user specific files
 content.txt
 /app/assets/javascripts/secrets.js
+*.DS_Store
